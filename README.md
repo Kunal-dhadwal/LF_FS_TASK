@@ -148,3 +148,10 @@ Go through both the backend and frontend with a critical eye. There are no speci
 - Push all your changes on your branch starting with you name. Create that branch if not exist.
 - Raise a PR from your branch to main branch.
 
+---
+
+## Solution & Implementation Details
+
+All tasks across Part 1, Part 2, and Part 3 have been completed. For the full detailed write-up covering all 10 bug fixes, performance optimizations, and architectural designs, please see [SOLUTION.md](SOLUTION.md).
+
+

@@ -5,7 +5,9 @@
   "main": "backend_express.js",
   "scripts": {
     "start": "node backend_express.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node test_app.js"
   },
   "keywords": [
     "social-media",
